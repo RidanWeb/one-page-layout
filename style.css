@@ -1,0 +1,140 @@
+*{margin:0;padding: :0;}
+.header {
+  background: #ec6e20 none repeat scroll 0 0;
+  margin-bottom: 5px;
+  min-height: 100px;
+  overflow: hidden;
+}
+.logo {
+  background: #bf76a8 none repeat scroll 0 0;
+  float: left;
+  margin: 25px 0;
+  min-height: 50px;
+  width: 20%;
+  border: 2px solid #ffffff;
+}
+.logo h2, .menu h2 {
+  color: #ffffff;
+  text-align: center;
+  line-height: 19px;
+  margin: 15px 0;
+}
+.menu {
+  background: #bf76a8 none repeat scroll 0 0;
+  float: right;
+  margin: 25px 0;
+  min-height: 50px;
+  width: 40%;
+  border: 2px solid #ffffff;
+}
+
+.banner {
+  background: #ff9800 none repeat scroll 0 0;
+  margin-bottom: 5px;
+  padding: 10% 0;
+}
+
+.center {
+  background: #bf76a8 none repeat scroll 0 0;
+  border: 2px solid #ffffff;
+  margin: 0 auto;
+  min-height: 150px;
+  width: 150px;
+}
+.center h2 {
+  color: #ffffff;
+  line-height: 19px;
+  margin: 65px 0;
+  text-align: center;
+}
+.section{
+	background: #BF76A8;
+	overflow: hidden;
+	margin-bottom: 5px;
+}
+.aside {
+  background: #FFAE60 none repeat scroll 0 0;
+  float: left;
+  min-height: 600px;
+  width: 30%;
+}
+.content {
+  background: #ec6e20 none repeat scroll 0 0;
+  float: right;
+  min-height: 600px;
+  width: 68%;
+}
+.aside h2, .content h2 {
+  color: #ffffff;
+  line-height: 18px;
+  text-align: center;
+  margin: 291px 0;
+}
+.service {
+	background: #FFA2D4;
+	overflow: hidden;
+	margin-bottom: 5px;
+}
+.service-1, .service-2 {
+  background: #bf76a8 none repeat scroll 0 0;
+  float: left;
+  margin-right: 2%;
+  min-height: 600px;
+  width: 36.5%;
+}
+.service-3 {
+	background: #BF76A8;
+	min-height: 600px;
+	width:23%;
+	float: left;
+}
+.service-1 h2, .service-2 h2, .service-3 h2 {
+  color: #ffffff;
+  line-height: 19px;
+  margin: 290px 0;
+  text-align: center;
+}
+
+.footer {
+  background: #ec6e20 none repeat scroll 0 0;
+  margin-bottom: 20px;
+  overflow: hidden;
+  padding: 35px 0;
+}
+.footer-text{
+	width: 25%;
+	float:left;
+	min-height: 50px;
+	background: #BF76A8;
+	border:2px solid #ffffff;
+}
+.footer-social{
+	width: 35%;
+	float:right;
+	min-height: 50px;
+	background: #BF76A8;
+	border:2px solid #ffffff;
+}
+.footer-social-icon1, .footer-social-icon2, .footer-social-icon3 {
+  background: #43a72d none repeat scroll 0 0;
+  float: left;
+  margin: 1.8% 38% 1.8% 0;
+  min-height: 30px;
+  width: 8%;
+  border-radius: 8px;
+}
+.footer-social-icon3{
+	margin-right: 0;
+}
+.footer-text h3{
+  color: #ffffff;
+  line-height: 15px;
+  text-align: center;
+  margin: 17px 0;
+}
+h3 {
+  color: #ffffff;
+  line-height: 15px;
+  text-align: center;
+  margin: 7px 0;
+}
